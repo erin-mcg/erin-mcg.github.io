@@ -5,7 +5,8 @@ Neural networks are still somewhat of a *magix box* to me, so in this post will 
 ### History of Neural Nets
 It all started in 1943 with Mchulloch and Pitts paper "A Logical Calculus of the Ideas Immanent in Nervous Activity" in which they proved a additon and thresholding could represent a real neuron.
 
-<img src="images/neuron.jpg" alt="Image of neuron" style="display: block; margin: auto; width: 50%;" />
+
+![](/images/neuron.png "Image of neuron")
 
 They proved a single layer of neurons couldn't understand simple mathematical functions but with multiple layers its understanding grew.
 
