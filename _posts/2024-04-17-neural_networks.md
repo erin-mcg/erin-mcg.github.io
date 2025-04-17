@@ -6,7 +6,7 @@ Neural networks are still somewhat of a *magix box* to me, so in this post will 
 It all started in 1943 with Mchulloch and Pitts paper "A Logical Calculus of the Ideas Immanent in Nervous Activity" in which they proved a additon and thresholding could represent a real neuron.
 
 
-![](/images/neuron.png "Image of neuron")
+![](/images/neuron.jpg "Image of neuron")
 
 They proved a single layer of neurons couldn't understand simple mathematical functions but with multiple layers its understanding grew.
 
